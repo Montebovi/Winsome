@@ -1,0 +1,20 @@
+[
+  {
+    "idPost": 1,
+    "idPublisher": 1,
+    "idAuthor": 1,
+    "idOriginalPost": 1,
+    "titolo": "aaaa",
+    "contenuto": "bbb",
+    "eta": 1
+  },
+  {
+    "idPost": 2,
+    "idPublisher": 2,
+    "idAuthor": 2,
+    "idOriginalPost": 2,
+    "titolo": "wwww",
+    "contenuto": "eee",
+    "eta": 0
+  }
+]

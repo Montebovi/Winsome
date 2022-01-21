@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "username": "davide",
+    "hashedpwd": "ODi9WAbTLNkRRIZaqCK5VRQX3SeWwWPTkLqnB00wZ6c\u003d",
+    "tags": [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  {
+    "id": 2,
+    "username": "pippo",
+    "hashedpwd": "ODi9WAbTLNkRRIZaqCK5VRQX3SeWwWPTkLqnB00wZ6c\u003d",
+    "tags": [
+      "a",
+      "b",
+      "c"
+    ]
+  }
+]
